@@ -2643,7 +2643,7 @@ checksum = "a2eb9349b6444b326872e140eb1cf5e7c522154d69e7a0ffb0fb81c06b37543f"
 [[package]]
 name = "steel-core"
 version = "0.6.0"
-source = "git+https://github.com/Talia-12/steel.git?branch=fs-additions-helix#90d76a2f0d59647ec6c0ee6b6fa6e21ba1e69a33"
+source = "git+https://github.com/Talia-12/steel.git?branch=fs-additions-helix#07bd46b0e7824944769d3a120be05cc25bff9129"
 dependencies = [
  "abi_stable",
  "anyhow",
@@ -2683,7 +2683,7 @@ dependencies = [
 [[package]]
 name = "steel-derive"
 version = "0.5.0"
-source = "git+https://github.com/Talia-12/steel.git?branch=fs-additions-helix#90d76a2f0d59647ec6c0ee6b6fa6e21ba1e69a33"
+source = "git+https://github.com/Talia-12/steel.git?branch=fs-additions-helix#07bd46b0e7824944769d3a120be05cc25bff9129"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -2693,7 +2693,7 @@ dependencies = [
 [[package]]
 name = "steel-doc"
 version = "0.6.0"
-source = "git+https://github.com/Talia-12/steel.git?branch=fs-additions-helix#90d76a2f0d59647ec6c0ee6b6fa6e21ba1e69a33"
+source = "git+https://github.com/Talia-12/steel.git?branch=fs-additions-helix#07bd46b0e7824944769d3a120be05cc25bff9129"
 dependencies = [
  "steel-core",
 ]
@@ -2701,7 +2701,7 @@ dependencies = [
 [[package]]
 name = "steel-gen"
 version = "0.2.0"
-source = "git+https://github.com/Talia-12/steel.git?branch=fs-additions-helix#90d76a2f0d59647ec6c0ee6b6fa6e21ba1e69a33"
+source = "git+https://github.com/Talia-12/steel.git?branch=fs-additions-helix#07bd46b0e7824944769d3a120be05cc25bff9129"
 dependencies = [
  "codegen",
  "serde",
@@ -2711,7 +2711,7 @@ dependencies = [
 [[package]]
 name = "steel-parser"
 version = "0.6.0"
-source = "git+https://github.com/Talia-12/steel.git?branch=fs-additions-helix#90d76a2f0d59647ec6c0ee6b6fa6e21ba1e69a33"
+source = "git+https://github.com/Talia-12/steel.git?branch=fs-additions-helix#07bd46b0e7824944769d3a120be05cc25bff9129"
 dependencies = [
  "fxhash",
  "lasso",
